@@ -1,0 +1,64 @@
+____________________________________
+Name: Iskhak
+Surname: Suranov
+Email: iskhaksuranov@gmail.com
+Number: +48 578 892 517
+Address: Relakowa 45
+Gender: Male
+Photo: jordan-steranka-64LL2fP9uXM-unsplash.jpg
+____________________________________
+Name: Aktan
+Surname: Dzhumabekov
+Email: aktandj@gmail.com
+Number: +48 564 213 945
+Address: Teligi 34
+Gender: Male
+Photo: warsaw.jpg
+____________________________________
+Name: Ulan
+Surname: Satybaldiev
+Email: ulan@gmail.com
+Number: +48 895 457 132
+Address: Dembego 21
+Gender: Male
+Photo: ohrana-avtorskih-prav_500.jpg
+____________________________________
+Name: Azhymurat
+Surname: Nosirov
+Email: azhy@gmail.com
+Number: +48 123 456 789
+Address: Wiolinowa 7
+Gender: Male
+Photo: mario-alvarez-M1YdS0g8SRA-unsplash.jpg
+____________________________________
+Name: Sultan
+Surname: Bakirov
+Email: sbakirov@gmail.com
+Number: +48 567 952 145
+Address: Woldijewskiego 43
+Gender: Male
+Photo: baron-gimenez-8PGcxEJ678k-unsplash.jpg
+____________________________________
+Name: Mahdi
+Surname: Vahedian
+Email: mahdi.vahedian@stud.vistula.edu.pl
+Number: +98 912 718 8591
+Address: Stoklosy 2
+Gender: Male
+Photo: Save-the-Date.jpg
+____________________________________
+Name: Edip
+Surname: Senyurek
+Email: e.senyurek@vistula.edu.pl
+Number: +48 502 698 454
+Address: Stoklosy 2
+Gender: Male
+Photo: markus-winkler-8-X2_qeTdlQ-unsplash.jpg
+____________________________________
+Name: Elon
+Surname: Musk
+Email: elonmusk@tesla.com
+Number: +1 111 111 111
+Address: Lincoln 1
+Gender: Male
+Photo: aditya-chinchure-H0OSpZ4vJDo-unsplash.jpg
